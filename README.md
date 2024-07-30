@@ -5,14 +5,16 @@ Build a dynamic search feature using jQuery and AJAX.
 
 
 1. ISt landing page output
- ![Tabel](Assets/output/aftersearch.png)
+![Tabel](Assets/output/landingpage1.png)
+ 
 
 
- 2. During search in searchbar  output
+ 3. During search in searchbar  output
  ![Tabel](Assets/output/duringsearch.png)
 
 
 
-3. final output after giving input in search bar 
-![Tabel](Assets/output/landingpage1.png)
+4. final output after giving input in search bar
+![Tabel](Assets/output/aftersearch.png)
+
 
