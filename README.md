@@ -3,4 +3,16 @@ Build a dynamic search feature using jQuery and AJAX.
  and display them below the search bar in real-time. 
  Implement debouncing to limit the number of requests sent.
 
+
+1. ISt landing page output
  ![Tabel](Assets/output/aftersearch.png)
+
+
+ 2. During search in searchbar  output
+ ![Tabel](Assets/output/duringsearch.png)
+
+
+
+3. final output after giving input in search bar 
+![Tabel](Assets/output/landingpage1.png)
+
