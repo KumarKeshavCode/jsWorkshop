@@ -1,0 +1,8 @@
+Build a dynamic search feature using jQuery and AJAX.
+ When the user types into the search bar, send an AJAX request to fetch search results ,
+ and display them below the search bar in real-time. 
+ Implement debouncing to limit the number of requests sent.
+
+
+
+ Debouncing: Debouncing is a technique where you delay the execution of a function until after a certain amount of time has passed. This is useful if you have a frequently used function—say, a scroll or resize event listener—and don't want to trigger it too frequently because that might slow down the browser.
