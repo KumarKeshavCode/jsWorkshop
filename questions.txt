@@ -5,4 +5,11 @@ Build a dynamic search feature using jQuery and AJAX.
 
 
 
- Debouncing: Debouncing is a technique where you delay the execution of a function until after a certain amount of time has passed. This is useful if you have a frequently used function—say, a scroll or resize event listener—and don't want to trigger it too frequently because that might slow down the browser.
+ Debouncing: Debouncing is a technique where you delay the execution of a function until after a 
+ certain amount of time has passed. This is useful if you have a frequently used function—say, 
+ a scroll or resize event listener—and don't want to trigger it too frequently because that might 
+ slow down the browser.
+
+ block and inline element
+
+
